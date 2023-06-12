@@ -7,7 +7,7 @@
 1. We are logging into User 1 account.
 2. User 1 sends message to User 2.
 3. We are logging into User 2 account.
-4. Validate the message sent by User 1.
+4. Validate the message sent by User 1 to User 2.
 
 
 ## Prerequisite
